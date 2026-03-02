@@ -1,6 +1,6 @@
 # PostgreSQL
 
-## Português <span style='font-size:200px;'>&#127477;&#127481;</span> 
+# <span style='font-size:200px;'>&#80;</span><span style='font-size:200px;'>&#84;</span> 
 
 Repositório de exercícios de SQL com enunciados e respetivas soluções, desenvolvido para evidenciar evolução técnica, capacidade de análise de requisitos e rigor na interpretação de problemas relacionados com bases de dados.
 
@@ -15,7 +15,7 @@ Este repositório destina-se a resolução de exercicios em PostgreSQL para evol
 
 <hr>
 
-## English <span style='font-size:200px;'>&#127468;&#127463;</span>
+# <span style='font-size:200px;'>&#69;</span><span style='font-size:200px;'>&#78;</span><span style='font-size:200px;'>&#71;</span>
 
 Repository of SQL exercises including specifications and corresponding solutions, developed to demonstrate technical progression, requirements analysis capability, and rigour in interpreting database-related problems.
 
